@@ -24,8 +24,8 @@ jobs:
 
       - name: git commit
         run: |
-          git config --local user.email "ikawaha@users.noreply.github.com"
-          git config --local user.name "ikawaha"
+          git config --local user.email "quick.resp.biz094@gmail.com"
+          git config --local user.name "t-keshi"
           git log -1
           git add README.md
           git diff --cached --quiet || (git commit -m "Update feed snippet" && git push origin main)
