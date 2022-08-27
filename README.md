@@ -2,15 +2,15 @@
 
 # 👋 Hi there
 
-- ❤️ I'm React and TypeScript enthusiast
+- ❤️ I'm a React and TypeScript Enthusiast
 - 🌱 I’m currently learning Serverside Kotlin
 - 😄 Pronouns: he/him
 - 💼 I’m currently working at Sansan Inc.
-- 💬 Ask me about React, TypeScript and GraphQL
 - 📫 How to reach me `quick.resp.biz094@gmail.com`
 - 📝 I regularly write articles on [https://zenn.dev/t_keshi](https://zenn.dev/t_keshi)
+- ⚡️ Examples of work [https://tsundoku-michelin.vercel.app](https://tsundoku-michelin.vercel.app/books-list/1)
 
-## 📕 Latest Blog Posts
+# 📕 Latest Blog Posts
 
 <!--[START github.com/ikawaha/feedsnippet]--><!--[2022-08-12T00:01:21Z]-->
 
