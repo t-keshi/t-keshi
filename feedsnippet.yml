@@ -4,8 +4,6 @@
     {{range . -}}
       * {{ if eq .Header.FeedLink "https://zenn.dev/t-keshi/feed" -}}
             ![zenn](./icon/zenn.png)
-        {{- else }}{{ if eq .Header.FeedLink "https://qiita.com/t-keshi/feed" -}}
-            ![](./icon/qiita.png)
         {{- end }}{{ end -}}
       [{{ .Title }}]({{ .Link }})
     {{ end }}
