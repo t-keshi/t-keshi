@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=t-keshi&show_icons=true&locale=en" alt="t-keshi" /></p>
+<p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=t-keshi&show_icons=true&locale=en" alt="t-keshi" /></p>
 
 - ❤️ I'm a React and TypeScript Enthusiast
 - 🌱 I’m currently learning Serverside Kotlin
@@ -14,7 +14,7 @@
 
 # 📕 Latest Blog Posts
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-keshi&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
+<p><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-keshi&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
 
 <!--[START github.com/ikawaha/feedsnippet]--><!--[2022-08-27T15:19:24Z]-->
 * ![zenn](./icon/zenn.png)[非同期処理に疲れた方に、ReactQueryの処方箋](https://zenn.dev/t_keshi/articles/react-query-prescription)
