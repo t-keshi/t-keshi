@@ -20,4 +20,6 @@
 - [setLoading、駆逐してやる!!この世から...一匹残らず...!【進撃のデータフェッチ】](https://zenn.dev/t_keshi/articles/attack-on-react-query)
 - [君のemotionを解き放て！－CSSinJSの歩き方－](https://zenn.dev/t_keshi/articles/emotional-usage-of-emotion)
 - [今日からはじめるReactのテスト戦略](https://zenn.dev/t_keshi/articles/react-test-rule)
+- [今日からはじめるReactのテスト実践](https://zenn.dev/t_keshi/articles/react-test-practice)
+- [まだAPIが出来ていない？私は一向にかまわんッッ](https://zenn.dev/t_keshi/articles/ok-ihave-mockapi)
 <!-- BLOG-POST-LIST:END -->
