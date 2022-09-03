@@ -16,4 +16,6 @@
 
 <!--[END github.com/ikawaha/feedsnippet]-->
 
-<p align="left"> <a href="https://twitter.com/t__keshi" target="blank"><img src="https://img.shields.io/twitter/follow/t__keshi?logo=twitter&style=for-the-badge" alt="t__keshi" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-keshi&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-keshi&show_icons=true&locale=en" alt="t-keshi" /></p>
