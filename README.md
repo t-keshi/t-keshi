@@ -17,11 +17,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-keshi&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma × Storybook × Tokensで、デザインツールのその先へ](https://zenn.dev/t_keshi/articles/sync-design-approach)
 - [3分できる即席GitHubプロフィール](https://zenn.dev/t_keshi/articles/instant-github-profile)
 - [非同期処理に疲れた方に、ReactQueryの処方箋](https://zenn.dev/t_keshi/articles/react-query-prescription)
 - [setLoading、駆逐してやる!!この世から...一匹残らず...!【進撃のデータフェッチ】](https://zenn.dev/t_keshi/articles/attack-on-react-query)
 - [君のemotionを解き放て！－CSSinJSの歩き方－](https://zenn.dev/t_keshi/articles/emotional-usage-of-emotion)
 - [今日からはじめるReactのテスト戦略](https://zenn.dev/t_keshi/articles/react-test-rule)
 - [今日からはじめるReactのテスト実践](https://zenn.dev/t_keshi/articles/react-test-practice)
-- [まだAPIが出来ていない？私は一向にかまわんッッ](https://zenn.dev/t_keshi/articles/ok-ihave-mockapi)
 <!-- BLOG-POST-LIST:END -->
