@@ -16,11 +16,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-keshi&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM時代の言語選定――こんな時代だからこそGolang?!](https://zenn.dev/t_keshi/articles/go-in-the-roaring-age)
 - [明日から使えるTypeScriptの応用テクニックその3 -Polymorphic Component編-](https://zenn.dev/t_keshi/articles/tips-typescript-3)
 - [明日から使えるTypeScriptの応用テクニックその2 -判別可能なUnion/Distribution編-](https://zenn.dev/t_keshi/articles/tips-typescript-2)
 - [明日から使えるTypeScriptの応用テクニックその1 -Mapped/ConditionalTypes編-](https://zenn.dev/t_keshi/articles/tips-typescript-1)
 - [You and 120% Cleaner React](https://zenn.dev/t_keshi/books/you-and-cleaner-react)
 - [本気で考えるReactのベストプラクティス！bulletproof-react2022](https://zenn.dev/t_keshi/articles/bulletproof-react-2022)
 - [本当にあった怖いSVGアイコンの話](https://zenn.dev/t_keshi/articles/react-neat-icon)
-- [Figma × Storybook × Tokensで、デザインツールのその先へ](https://zenn.dev/t_keshi/articles/sync-design-approach)
 <!-- BLOG-POST-LIST:END -->
