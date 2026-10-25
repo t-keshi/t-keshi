@@ -16,7 +16,7 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-keshi&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agile Language Learning —エンジニアによるエンジニアのための英語学習法—](https://zenn.dev/t_keshi/articles/agile-language-learning1)
+- [Agile Language Learning —エンジニアによるエンジニアのための英語学習法—](https://zenn.dev/t_keshi/articles/agile-language-learning1)
 - [LLM時代の言語選定――こんな時代だからこそGolang?!](https://zenn.dev/t_keshi/articles/go-in-the-roaring-age)
 - [明日から使えるTypeScriptの応用テクニックその3 -Polymorphic Component編-](https://zenn.dev/t_keshi/articles/tips-typescript-3)
 - [明日から使えるTypeScriptの応用テクニックその2 -判別可能なUnion/Distribution編-](https://zenn.dev/t_keshi/articles/tips-typescript-2)
